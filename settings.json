@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Slobos"
+      "password": "tunuktunk"
     },
     "anti-afk": {
       "enabled": true,
@@ -30,9 +30,8 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "abe yr tpa req bhejo",
+        "hi",
       ]
     },
     "chat-log": true,
